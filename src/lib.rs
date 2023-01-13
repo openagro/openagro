@@ -1,2 +1,2 @@
-mod extension;
+pub mod extension;
 mod http;
